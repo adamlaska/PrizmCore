@@ -121,7 +121,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-proxy</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.27.v20200227</version>
         </dependency>
         <dependency>
             <groupId>com.google.zxing</groupId>
