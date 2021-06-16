@@ -25,12 +25,12 @@
         <dependency>
             <groupId>org.apache.tika</groupId>
             <artifactId>tika-core</artifactId>
-            <version>1.13</version>
+            <version>1.15</version>
         </dependency>
         <dependency>
             <groupId>org.apache.tika</groupId>
             <artifactId>tika-parsers</artifactId>
-            <version>1.13</version>
+            <version>1.26</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -66,7 +66,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-security</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.39.v20210325</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
@@ -81,12 +81,12 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-io</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.3.26.v20190403</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.39.v20210325</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
@@ -106,22 +106,22 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlet</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.39.v20210325</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlets</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.3.26.v20190403</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-client</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.39.v20210325</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-proxy</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.39.v20210325</version>
         </dependency>
         <dependency>
             <groupId>com.google.zxing</groupId>
@@ -131,7 +131,7 @@
         <dependency>
             <groupId>com.google.zxing</groupId>
             <artifactId>javase</artifactId>
-            <version>3.3.0</version>
+            <version>3.4.1</version>
         </dependency>
         <dependency>
             <groupId>org.bitlet</groupId>
@@ -146,7 +146,7 @@
         <dependency>
             <groupId>org.eclipse.jetty.websocket</groupId>
             <artifactId>websocket-client</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.39.v20210325</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
@@ -161,7 +161,7 @@
         <dependency>
             <groupId>org.eclipse.jetty.websocket</groupId>
             <artifactId>websocket-common</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.3.26.v20190403</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty.websocket</groupId>
@@ -171,7 +171,7 @@
         <dependency>
             <groupId>org.eclipse.jetty.websocket</groupId>
             <artifactId>websocket-server</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.39.v20210325</version>
         </dependency>
     </dependencies>
     <build>
