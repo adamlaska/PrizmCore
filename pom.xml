@@ -141,7 +141,7 @@
         <dependency>
             <groupId>org.eclipse.jetty.websocket</groupId>
             <artifactId>websocket-servlet</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.27.v20200227</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty.websocket</groupId>
