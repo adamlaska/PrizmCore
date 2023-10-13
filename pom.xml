@@ -30,7 +30,7 @@
         <dependency>
             <groupId>org.apache.tika</groupId>
             <artifactId>tika-parsers</artifactId>
-            <version>1.13</version>
+            <version>1.16</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -76,7 +76,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-http</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.53.v20231009</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
@@ -86,7 +86,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.53.v20231009</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
@@ -111,12 +111,12 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlets</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.53.v20231009</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-client</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.53.v20231009</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
@@ -171,7 +171,7 @@
         <dependency>
             <groupId>org.eclipse.jetty.websocket</groupId>
             <artifactId>websocket-server</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.4.53.v20231009</version>
         </dependency>
     </dependencies>
     <build>
