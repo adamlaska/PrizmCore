@@ -106,7 +106,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlet</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.3.24.v20180605</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
@@ -171,7 +171,7 @@
         <dependency>
             <groupId>org.eclipse.jetty.websocket</groupId>
             <artifactId>websocket-server</artifactId>
-            <version>9.3.20.v20170531</version>
+            <version>9.3.24.v20180605</version>
         </dependency>
     </dependencies>
     <build>
