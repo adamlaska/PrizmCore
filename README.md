@@ -8,6 +8,8 @@
 
 ## PrizmCore_Mods [v.1.2 All OS](https://tech.prizm.vip/files/PrizmCore_Mod_v.1.2_final.zip), [v.1.32 All OS](https://tech.prizm.vip/files/PrizmCore_Mod_v.1.32.zip)
 
+## Prizm Sms DApp Web3 [Google Play RU](https://play.google.com/store/apps/details?id=prizm.wallet&hl=ru), [Google Play EN](https://play.google.com/store/apps/details?id=prizm.wallet_en)
+
 ## Prizm app [Android lite](https://tech.prizm.vip/files/prizm.apk), [IOS full](https://apps.apple.com/ru/app/prizm-wallet/id1451337725), [IOS lite](https://apps.apple.com/ru/app/prizm-light/id1549745442).
 
 ## User friendly [Online Wallet](https://wallet.prizm.space/) ([Mirror](https://wallet.prizm-space.com/))
@@ -26,7 +28,7 @@
 
 ## Java 8 for PrizmCore u221 [Windows](https://tech.prizm.vip/files/JavaWindows8u221.zip), [Linux](https://tech.prizm.vip/files/JavaLinux8u221.zip), [Macos](https://tech.prizm.vip/files/JavaMacOS8u221.zip).
 
-## Official blockchain snapshot. Height:2347552 | 5.01.23 [.torrent](https://tech.prizm.vip/files/prizm_db.torrent) and [.zip](https://tech.prizm.vip/files/prizm_db.zip)
+## Official blockchain snapshot. Height:2797717 | 28.11.23  [.zip](https://tech.prizm.vip/files/prizm_db.zip)
 
 ## [API doc instructions](https://blockchain.prizm.vip/api-doc/PRIZM_API.html)
 
