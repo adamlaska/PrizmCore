@@ -8,7 +8,7 @@
 
 ## Prizm Sms DApp Web3 [Google Play RU](https://play.google.com/store/apps/details?id=prizm.wallet&hl=ru), [Google Play EN](https://play.google.com/store/apps/details?id=prizm.wallet_en)
 
-## Prizm app [Android lite](https://tech.prizm.vip/files/prizm.apk), [IOS full](https://apps.apple.com/ru/app/prizm-wallet/id1451337725), [IOS lite](https://apps.apple.com/ru/app/prizm-light/id1549745442).
+## Prizm app [IOS full](https://apps.apple.com/ru/app/prizm-wallet/id1451337725), [IOS lite](https://apps.apple.com/ru/app/prizm-light/id1549745442).
 
 ## User friendly [Online Wallet](https://wallet.prizm.vip/)
 
