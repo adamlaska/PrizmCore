@@ -24,7 +24,7 @@
 
 ## [API doc instructions](https://blockchain.prizm.vip/api-doc/PRIZM_API.html)
 
-## [Paracalc ecxel from enthusiasts v.5.4](https://tech.prizm.vip/files/PARACALC_5.4.xlsm).
+## [Paracalc ecxel from enthusiasts v.5.8](https://tech.prizm.vip/files/PARACALC_5.8.xlsm).
 
 
 Attention! We don't include PrizmEngine.java in current repository for security reasons and for preventing creating forks by anyone. This file will be published later.
