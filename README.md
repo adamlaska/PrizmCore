@@ -12,7 +12,7 @@
 
 ## User friendly [Online Wallet](https://wallet.prizm.vip/)
 
-## Easy API gateway [PrizmAPIServlet 1.10.4](https://tech.prizm.vip/files/prizm-api-1.10.4.tgz)
+## Easy API gateway [PrizmAPIServlet 1.10.4.6](https://tech.prizm.vip/files/prizm-api-1.10.4.6.tgz)
 
 ## [Blockchain explorer](https://blockchain.prizm.vip/) AND [Web Prizm Core](https://core.prizm.vip/)
 
