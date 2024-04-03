@@ -30,9 +30,9 @@ Hash: MD5
 
 If you would like to validate that the binaries you download are exactly the same as those provided and built by the Prizm team, then you can compare your binaries to the following md5 hashes:
 
-* [Windows](http://tech.prizm.vip/files/prizm-dist-1.10.4.6-win.exe) 8da1e1b2b468b107865686eea48c11f3
-* [OS/X](http://tech.prizm.vip/files/prizm-dist-1.10.4.6-mac.dmg) 3c8df3dc591fe3010a8962ea924edda2
-* [Linux](http://tech.prizm.vip/files/prizm-dist-1.10.4.6-linux.tgz) ad1cc9487a269c1bed023a74f435f07f
+* [Windows](https://tech.prizm.vip/files/prizm-dist-1.10.4.6-win.exe) 8da1e1b2b468b107865686eea48c11f3
+* [OS/X](https://tech.prizm.vip/files/prizm-dist-1.10.4.6-mac.dmg) 3c8df3dc591fe3010a8962ea924edda2
+* [Linux](https://tech.prizm.vip/files/prizm-dist-1.10.4.6-linux.tgz) ad1cc9487a269c1bed023a74f435f07f
 
 ### Precompiled distribution of the Prizm node mod
 
