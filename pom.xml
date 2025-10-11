@@ -30,7 +30,7 @@
         <dependency>
             <groupId>org.apache.tika</groupId>
             <artifactId>tika-parsers</artifactId>
-            <version>1.13</version>
+            <version>1.27</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -40,7 +40,7 @@
         <dependency>
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcprov-jdk15on</artifactId>
-            <version>1.57</version>
+            <version>1.69</version>
         </dependency>
         <!--        <dependency>
             <groupId>com.h2database</groupId>
